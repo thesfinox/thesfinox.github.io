@@ -2,7 +2,7 @@
 title: "Machine Learning for Complete Intersection Calabi-Yau Manifolds: a Methodological Study"
 collection: publications
 permalink: /publication/2020-07-machine-learning-calabi-yau
-excerpt: "We revisit the question of predicting both Hodge numbers $h^{1,1}$ and $h^{2,1} of Complete Intersection Calabi-Yau 3-folds using machine learning."
+excerpt: "We revisit the question of predicting both Hodge numbers $h^{1,1}$ and $h^{2,1}$ of Complete Intersection Calabi-Yau 3-folds using machine learning."
 date: 2020-07-30
 venue: "arXiv:2007.15706, submitted to Phys. Rev. D"
 paperurl: "https://arxiv.org/abs/2007.15706"

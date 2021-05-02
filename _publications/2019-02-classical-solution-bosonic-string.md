@@ -1,8 +1,8 @@
 ---
-title: "The Classical Solution"
+title: "The Classical Solution for the Bosonic String in the Presence of three D-branes Rotated by Arbitrary SO(4) Elements"
 collection: publications
 permalink: /publication/2019-02-classical-solution-bosonic-string
-excerpt: "We consider the classical instantonic contribution to the open string configuration associated with three D-branes with relative rotation matrices in $\mathrm{SO}(4)$."
+excerpt: "We consider the"
 date: 2019-02-21
 venue: "Nucl. Phys. B 941 (2019), pp. 158-194"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0550321319300380"
