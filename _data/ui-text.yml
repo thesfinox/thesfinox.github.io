@@ -4,9 +4,9 @@
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
-  pagination_previous        : "Previous"
-  pagination_next            : "Next"
-  breadcrumb_home_label      : "Home"
+  pagination_previous        : "&#57904; Previous"
+  pagination_next            : "&#57905; Next"
+  breadcrumb_home_label      : "&#57398; Home"
   breadcrumb_separator       : "/"
   toc_label                  : "On This Page"
   ext_link_label             : "Direct Link"
@@ -52,9 +52,9 @@ en-AU:
 # --------------
 es: &DEFAULT_ES
   page                       : "Página"
-  pagination_previous        : "Anterior"
-  pagination_next            : "Siguiente"
-  breadcrumb_home_label      : "Inicio"
+  pagination_previous        : "&#57904; Anterior"
+  pagination_next            : "&#57905; Siguiente"
+  breadcrumb_home_label      : "&#57398; Inicio"
   breadcrumb_separator       : "/"
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
@@ -96,9 +96,9 @@ es-CO:
 # -----------------
 fr: &DEFAULT_FR
   page                       : "Page"
-  pagination_previous        : "Précédent"
-  pagination_next            : "Suivant"
-  breadcrumb_home_label      : "Accueil"
+  pagination_previous        : "&#57904; Précédent"
+  pagination_next            : "&#57905; Suivant"
+  breadcrumb_home_label      : "&#57398; Accueil"
   breadcrumb_separator       : "/"
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
@@ -142,9 +142,9 @@ fr-CH:
 # -----------------
 tr: &DEFAULT_TR
   page                       : "Sayfa"
-  pagination_previous        : "Önceki"
-  pagination_next            : "Sonraki"
-  breadcrumb_home_label      : "Ana Sayfa"
+  pagination_previous        : "&#57904; Önceki"
+  pagination_next            : "&#57905; Sonraki"
+  breadcrumb_home_label      : "&#57398; Ana Sayfa"
   breadcrumb_separator       : "/"
   toc_label                  : "İçindekiler"
   ext_link_label             : "Doğrudan Bağlantı"
@@ -184,9 +184,9 @@ tr-TR:
 # -----------------
 pt: &DEFAULT_PT
   page                       : "Página"
-  pagination_previous        : "Anterior"
-  pagination_next            : "Próxima"
-  breadcrumb_home_label      : "Início"
+  pagination_previous        : "&#57904; Anterior"
+  pagination_next            : "&#57905; Próxima"
+  breadcrumb_home_label      : "&#57398; Início"
   breadcrumb_separator       : "/"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
@@ -228,9 +228,9 @@ pt-PT:
 # -----------------
 it: &DEFAULT_IT
   page                       : "Pagina"
-  pagination_previous        : "Precedente"
-  pagination_next            : "Prossima"
-  breadcrumb_home_label      : "Home"
+  pagination_previous        : "&#57904; Precedente"
+  pagination_next            : "&#57905; Prossima"
+  breadcrumb_home_label      : "&#57398; Home"
   breadcrumb_separator       : "/"
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"

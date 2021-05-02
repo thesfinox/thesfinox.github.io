@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Riccardo Finotello"
+title                    : "Home &#57398;"
 title_separator          : "-"
 name                     : &name "Riccardo Finotello"
-description              : &description "Theoretical physicist, AI enthusiast and computer geek."
+description              : &description "Riccardo's personal homepage with CV, talks, publications and other useful links."
 url                      : https://thesfinox.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thesfinox/thesfinox.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Riccardo"
+  name             : "Riccardo Finotello"
   avatar           : "profile_01.jpg"
-  bio              : "Theoretical physicist, AI enthusiast and computer geek. &#128406;"
+  bio              : "Theoretical physicist &#9883; &#65039;, AI enthusiast &#129302; and computer geek &#128421;."
   location         : "Bures sur Yvette, France"
-  employer         : "Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mT3o06QAAAAJ"
   email            :
@@ -99,7 +99,7 @@ author:
   github           : "thesfinox"
   google_plus      :
   keybase          :
-  instagram        : "thesfinox"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "riccardofinotello"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "thesfinox"
+  steam            : 
   tumblr           :
   twitter          : "thesfinox"
   vine             :
