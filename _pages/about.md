@@ -20,7 +20,7 @@ My research is focused on <ins>applications of AI</ins> methods to physical data
 
 I started my graduate studies in [Torino, Italy](https://goo.gl/maps/8AeAw5Wy7EmY2xHr7) in 2017, at the [*Università degli Studi di Torino*](https://www.unito.it), under the advisory of [Prof. Igor Pesando](https://scholar.google.it/citations?user=1E277GoAAAAJ).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.6634756938415!2d7.679276614843547!3d45.05205047909826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886d453bc40807%3A0xd846b2c4b4c0f714!2sVia%20Pietro%20Giuria%2C%201%2C%2010125%20Torino%20TO%2C%20Italia!5e0!3m2!1sit!2sfr!4v1619962304043!5m2!1sit!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.6634756938415!2d7.679276614843547!3d45.05205047909826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886d453bc40807%3A0xd846b2c4b4c0f714!2sVia%20Pietro%20Giuria%2C%201%2C%2010125%20Torino%20TO%2C%20Italia!5e0!3m2!1sit!2sfr!4v1619969397479!5m2!1sit!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 I focused my research on <ins>string theory and conformal field theory</ins> and applications of <ins>deep learning in algebraic geometry</ins>. Main topics of my work have been the study of conformal **twist and spin fields**, **cosmological singularities** and **time dependent orbifolds**, and AI techniques for **Complete Intersection Calabi-Yau** manifolds.
 
