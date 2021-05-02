@@ -6,20 +6,20 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-GB"
+title                    : "Riccardo Finotello"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Riccardo Finotello"
+description              : &description "Theoretical physicist, AI enthusiast and computer geek."
+url                      : https://thesfinox.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "thesfinox/thesfinox.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+breadcrumbs              : true
+words_per_minute         : 150
+future                   : false
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "thesfinox"
 facebook:
-  username               :
+  username               : &facebook "riccardo.finotello93"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Riccardo"
+  avatar           : "profile_01.jpg"
+  bio              : "Theoretical physicist, AI enthusiast and computer geek. &#128406;"
+  location         : "Bures sur Yvette, France"
+  employer         : "Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=mT3o06QAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Riccardo-Finotello-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "riccardo.finotello93"
   foursquare       :
-  github           : "academicpages"
+  github           : "thesfinox"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "thesfinox"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "riccardofinotello"
+  orcid            : "https://orcid.org/0000-0002-8472-9004"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "thesfinox"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "thesfinox"
   vine             :
   weibo            :
   xing             :
