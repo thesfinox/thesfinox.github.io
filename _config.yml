@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Home &#57398;"
+title                    : "TheSfinox"
 title_separator          : "-"
 name                     : &name "Riccardo Finotello"
 description              : &description "Riccardo's personal homepage with CV, talks, publications and other useful links."
@@ -19,7 +19,7 @@ breadcrumbs              : true
 words_per_minute         : 150
 future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -83,8 +83,8 @@ author:
   name             : "Riccardo Finotello"
   avatar           : "profile_01.jpg"
   bio              : "Theoretical physicist &#9883; &#65039;, AI enthusiast &#129302; and computer geek &#128421;."
-  location         : "Bures sur Yvette, France"
-  employer         : 
+  location         : 
+  employer         : "CEA, Saclay"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mT3o06QAAAAJ"
   email            :
