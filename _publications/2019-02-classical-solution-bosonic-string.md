@@ -1,13 +1,13 @@
 ---
-title: "The Classical Solution for the Bosonic String in the Presence of Three D-branes Rotated by Arbitrary $\mathrm{SO}(4)$ Elements"
+title: "2D Fermion on the Strip with Boundary Defects as a CFT with Excited Spin Fields"
 collection: publications
-permalink: /publication/2019-02-classical-solution-bosonic-string
-excerpt: "We consider the classical instantonic contribution to the open string configuration associated with three D-branes with relative rotation matrices in  $\mathrm{SO}(4)$ which corresponds to the computation of the classical part of the correlator of three non Abelian twist fields."
-date: 2019-02-21
-venue: "Nucl. Phys. B 941 (2019), pp. 158-194"
-paperurl: "https://www.sciencedirect.com/science/article/pii/S0550321319300380"
-citation: "R. Finotello, I. Pesando. 'The Classical Solution for the Bosonic String in the Presence of Three D-branes Rotated by Arbitrary SO(4) Elements'. Nucl. Phys. B 941 (2019), pp. 158-194."
+permalink: /publication/2019-12-fermions-strip-boundary-defects
+excerpt: "We consider a two-dimensional fermion on the strip in the presence of an arbitrary number of zero-dimensional boundary changing defects."
+date: 2019-12-16
+venue: "arXiv:1912.07617, submitted to Nucl. Phys. B"
+paperurl: "https://arxiv.org/abs/1912.07617"
+citation: "R. Finotello, I. Pesando. '2D Fermion on the Strip with Boundary Defects as a CFT with Excited Spin Fields'. arXiv:1912.07617, submitted to Nucl. Phys. B."
 ---
-We consider the classical instantonic contribution to the open string configuration associated with three D-branes with relative rotation matrices in $\mathrm{SO}(4)$ which corresponds to the computation of the classical part of the correlator of three non Abelian twist fields. We write the classical solution as a sum of a product of two hypergeometric functions. Differently from all the previous cases with three D-branes, the solution is not holomorphic and suggests that the classical bosonic string knows when the configuration may be supersymmetric. We show how this configuration reduces to the standard Abelian twist field computation. From the phenomenological point of view, the Yukawa couplings between chiral matter at the intersection in this configuration are more suppressed with respect to the factorized case in the literature.
+We consider a two-dimensional fermion on the strip in the presence of an arbitrary number of zero-dimensional boundary changing defects. We show that the theory is still conformal with time dependent stress-energy tensor and that the allowed defects can be understood as excited spin fields. Finally we compute correlation functions involving these excited spin fields without using bosonization.
 
-[Full-text](https://arxiv.org/abs/1812.04643)
+[Full text](https://arxiv.org/abs/1912.07617)
