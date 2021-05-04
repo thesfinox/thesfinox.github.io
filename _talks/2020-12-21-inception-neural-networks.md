@@ -1,7 +1,7 @@
 ---
 title: "Inception Neural Networks for Calabi-Yau Manifolds"
 collection: talks
-type: "Talks"
+type: "Talk"
 permalink: /talks/2020-12-21-inception-neural-networks
 venue: "XVI Avogadro Meeting"
 date: 2020-12-21
