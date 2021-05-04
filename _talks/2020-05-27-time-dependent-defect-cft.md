@@ -1,7 +1,7 @@
 ---
 title: "Time Dependent Defect CFT and Excited Spin Fields"
-collection: talks
-type: "Talks"
+collection: poster
+type: "Poster"
 permalink: /talks/2020-05-27-time-dependent-defect-cft
 venue: "Cortona Young 2020"
 date: 2020-05-27
