@@ -7,28 +7,27 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Employment
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I currently cover a joint postdoctoral position between the *Direction des énergies* (DES/ISAS/DPC/SEARS/LANIE) and the *Direction de la recherche tecnologique* (DRT/LIST/DIASI/SIALV/LVML) for AI applications to physical data.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 02/2021 - present: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives*, Saclay, France.
+- 10/2017 - 12/2020: **Ph.D. Graduate Researcher**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
+- 10/2017 - 12/2020: **Scientific Associate Researcher**, *I.N.F.N. - sezione di Torino*, Torino, Italy.
+- 10/2018 - 07/2020: **Teaching Assistant**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Education
+
+I graduated in Physics and Astrophysics on 18th December 2020 with the thesis *D-branes and Deep Learning: Theoretical and Computational Aspects In String
+Theory* under the advisory of Prof. Igor Pesando.
+
+- 10/2017 - 12/2020: **Ph.D. Fellowship in Physics and Astrophysics**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
+- 10/2015 - 10/2017: **M.Sc. in Physics**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
+- 10/2012 - 07/2015: **B.Sc. in Physics**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
+
   
-Skills
-======
+# Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -36,24 +35,22 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks and Seminars
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching and Outreach Activity
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+# Coursework and Certifications
+
 * Currently signed in to 43 different slack teams
