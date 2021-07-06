@@ -37,20 +37,20 @@ Theory* under the advisory of Prof. Igor Pesando.
 
 # Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 # Talks and Seminars
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 # Teaching and Outreach Activity
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 # Coursework and Certifications
 
-* Currently signed in to 43 different slack teams
+- Machine Learning, *Standford U.* (via Coursera.org)
