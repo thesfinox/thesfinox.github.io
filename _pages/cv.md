@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+For the PDF version click [here](/assets/cv.pdf)
+
 # Personal Data
 
 - *place of birth*: Torino, Italy
