@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-For the PDF version click [here](/assets/cv.pdf)
-
 # Personal Data
+
+For the PDF version click [here](/assets/cv.pdf)
 
 - *place of birth*: Torino, Italy
 - *date of birth*: 13/07/1993
