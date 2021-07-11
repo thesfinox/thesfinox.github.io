@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Riccardo and I am a **postdoctoral researcher** at the [*Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives*](https://www.cea.fr) (CEA), Paris-Saclay. My current position is shared between the **Direction of Energies** (*Direction des &eacute;nergies* at the *Laboratoire d'analyse nucl&eacute;aire, isotopique et &eacute;l&eacute;mentaire*, DES/ISAS/DPC/SEARS/LANIE) and the **Direction of Technological Research** (*Direction de la recherche technologique* at the *Laboratoire de vision pour la mod&eacute;lisation e la localisation*, DRT/LIST/DIASI/SIALV/LVML).
+I am a **postdoctoral researcher** at the [*Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives*](https://www.cea.fr) (CEA), Paris-Saclay. My current position is shared between the **Direction of Energies** (*Direction des &eacute;nergies* at the *Laboratoire d'analyse nucl&eacute;aire, isotopique et &eacute;l&eacute;mentaire*, DES/ISAS/DPC/SEARS/LANIE) and the **Direction of Technological Research** (*Direction de la recherche technologique* at the *Laboratoire de vision pour la mod&eacute;lisation e la localisation*, DRT/LIST/DIASI/SIALV/LVML).
 
 I got my Ph.D. degree in *Physics and Astrophysics* at the *Università degli Studi di Torino* ([UniTO](https://www.unito.it)) in Italy in December 2020. My thesis dealt with topics of string theory and the **interface between geometry and artificial intelligence**. I am currently still working on such topics, while also focusing on other applications of AI to physical data.
 
