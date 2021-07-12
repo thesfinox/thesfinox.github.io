@@ -1,14 +1,4 @@
 ---
-title: "Inception Neural Networks for Calabi-Yau Manifolds"
-collection: talks
-type: "Talk"
-permalink: /talks/2020-12-21-inception-neural-networks
-venue: "XVI Avogadro Meeting"
-date: 2020-12-21
-location: "Online session"
----
-
----
 title: "Intelligenza Artificiale tra Geometria e Fisica"
 collection: talks
 type: "Talk"
@@ -18,4 +8,5 @@ date: 2021-05-27
 location: "Online Session"
 ---
 
-Seminar on Artificial Intelligence for students of the Italian high school *Escuela Alessandro Manzoni* in Argentina. The talk is complemented by a [demo](https://github.com/thesfinox/demo-liceo).
+Seminar on Artificial Intelligence for students of the Italian high school *Escuela Alessandro Manzoni* in Argentina.
+
