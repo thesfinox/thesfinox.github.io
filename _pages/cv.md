@@ -65,6 +65,7 @@ Theory* under the advisory of Prof. Igor Pesando.
 
 # Summer and Winter Schools
 
+- 07/2021: **IDAI 2021 - First Inria-DFKI European Summer School on AI**, [online](https://idessai.inria.fr/)
 - 12/2018: **LACES 2018 – Lezioni Avanzate di Campi e Stringhe**, [Firenze, Italy](http://laces.web.cern.ch/laces/LACES18/index18.html)
 - 01/2018: **GGI Lectures on the Theory of Fundamental Interactions**, [Firenze, Italy](http://webtheory.sns.it/ggilectures2018/)
 - 12/2017: **LACES 2017 – Lezioni Avanzate di Campi e Stringhe**, [Firenze, Italy](http://laces.web.cern.ch/laces/LACES17/index17.html)
