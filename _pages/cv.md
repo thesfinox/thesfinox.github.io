@@ -97,8 +97,8 @@ Theory* under the advisory of Prof. Igor Pesando.
 - *programming languages*: Python, R, C++, PHP, Javascript, SQL, bash, ROOT, Matlab/Octave, Maxima, Wolfram Language, Java
 - *markup languages*: HTML, Markdown, RMarkdown
 - *operating systems*: Arch Linux (main distribution), Ubuntu, Debian, CentOS, Microsoft Windows
-- *shell*s: bash, zsh
-- *modules and libraries*: Scipy ecosystem, Scikit-learn, Scikit-optimize, Tensorflow (Keras), LightGBM, Xgboost, Tidyr, Caret, Leaflet, Plotly, GMP, MPFR
+- *shell*s: bash, zsh, PowerShell
+- *modules and libraries*: Scipy ecosystem, Scikit-learn, Scikit-optimize, Tensorflow (Keras), PyTorch, LightGBM, Xgboost, Tidyr, Caret, Leaflet, Plotly, GMP, MPFR
 - *frameworks*: Jupyter Lab and Notebook, RStudio, wxMaxima, Mathematica for scientific programming; VIM (with plugins), Eclipse for software developments; Git for version control; GitBook for documentation
 - *system administration*: personal instance of Nextcloud on a Raspberry Pi server (Raspbian OS), administration and web design of the journal club webpage (https://torinophd.ddns.net/) on a Raspberry Pi Apache+PHP+MariaDB installation (GitHub)
 - *other certifications*: ECDL Core Full (European Computer Driving Licence, 04/2012)
