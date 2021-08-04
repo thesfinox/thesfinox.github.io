@@ -1,6 +1,6 @@
 ---
 title: "Deep Multi-task Mining Calabi-Yau Four-folds"
-collection: preprint
+collection: publications
 permalink: /publication/2021-08-deep-multi-task-mining
 excerpt: "We introduce CICYMiner, a multi-task minig architecture capable of reaching perfect accuracy on the prediction of Hodge numbers of CICY 4-folds."
 date: 2021-08-06
