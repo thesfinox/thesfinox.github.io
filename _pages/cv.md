@@ -45,7 +45,7 @@ Theory* under the advisory of Prof. Igor Pesando.
 # Coursework and Certifications
 
 - 12/2020: **Reinforcement Learning**, *U. of Alberta* (4 courses via Coursera.org - credential ID: [X6QTKFZDEGB2](https://www.coursera.org/account/accomplishments/specialization/certificate/X6QTKFZDEGB2))
-- 10/2020: **Data Science Specialisation**, *John Hopkins U.* (10 courses via Coursera.org - credential ID: [QDGGFSKG8VVS](https://www.coursera.org/account/accomplishments/specialization/certificate/QDGGFSKG8VVS))
+- 10/2020: **Data Science Specialization**, *John Hopkins U.* (10 courses via Coursera.org - credential ID: [QDGGFSKG8VVS](https://www.coursera.org/account/accomplishments/specialization/certificate/QDGGFSKG8VVS))
 - 06/2020: **AI for Medicine**, *deeplearning.ai* (3 courses via Coursera.org - credential ID: [ZXW8Y3UU4UCY](https://www.coursera.org/account/accomplishments/specialization/certificate/ZXW8Y3UU4UCY))
 - 05/2020: **Deep Learning**, *deeplearning.ai* (5 courses via Coursera.org - credential ID: [N2FWFZ9W42V2](https://www.coursera.org/account/accomplishments/specialization/certificate/N2FWFZ9W42V2))
 - 04/2020: **Machine Learning**, *U. of Standford* (1 course via Coursera.org - credential ID: [SDLSE9NP4XMH](https://www.coursera.org/account/accomplishments/certificate/SDLSE9NP4XMH))
