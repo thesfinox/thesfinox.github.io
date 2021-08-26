@@ -10,4 +10,4 @@ location: "Online Session"
 
 Seminar on Artificial Intelligence for students of the Italian high school *Escuela Alessandro Manzoni* in Buenos Aires, Argentina.
 
-The talk is complemented by a [demo](https://github.com/thesfinox/demo-liceo).
+[slides](https://riccardo.rigoletto.dynu.net/slides/ai_demo_20210527.html) | [demo](https://github.com/thesfinox/demo-liceo)
