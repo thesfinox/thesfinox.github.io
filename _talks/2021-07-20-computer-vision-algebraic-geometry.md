@@ -10,4 +10,4 @@ location: "Online session"
 
 We rephrase a central problem in algebraic geometry and theoretical physics as a computer vision task. Leveraging knowledge of the physical data with the introduction of architectures inspired by Google’s Inception network, we reach almost perfect accuracy on the predictions. We thus prove the versatility of the AI models and their reliability in making accurate physical predictions.
 
-[link](https://riccardo.rigoletto.dynu.net/slides/idai_20210720.pdf)
+[event](https://idessai.inria.fr/posters-and-demos/) | [poster](https://riccardo.rigoletto.dynu.net/slides/idai_20210720.pdf)
