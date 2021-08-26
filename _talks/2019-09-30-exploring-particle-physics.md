@@ -9,3 +9,5 @@ location: "Torino, Italy"
 ---
 
 In this short seminar for the midterm of the Ph.D. programme, we explore topics on particle physics seen from the perspective of 2D BCFT and open strings. We build a Standard Model-like scenario with semi-phenomenological properties using intersecting D-branes in $\mathrm{SO}(4)$ at angles and time-dependent defects. We then study the properties of the arising non Abelian twist fields and Abelian spin fields.
+
+[slides](https://riccardo.rigoletto.dynu.net/slides/unito_phd_20190920.pdf)
