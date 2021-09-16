@@ -14,7 +14,7 @@ For the PDF version click [here](/assets/cv.pdf).
 - *place of birth*: Torino, Italy
 - *date of birth*: 13/07/1993
 - *citizenship*: Italian
-- *work address*: *Commissariat à l’Energie Atomique et aux énergies alternatives*, DES/ISAS/DPC/SEARS/LANIE, Bât. 467 p. 104, 91191 Gif sur Yvette CEDEX, France
+- *work address*: *Commissariat à l’Energie Atomique et aux énergies alternatives*, DES/ISAS/DPC/SEARS/LANIE, Bât. 467 p. 104, F-91191 Gif sur Yvette CEDEX, France
 - *research interests*: 2D CFT, defect CFT, string theory, string amplitudes, orbifolds, cosmological singularities, machine learning, AI, spectroscopy, LIBS, Random Matrix Theory
 
 # Work Experience
