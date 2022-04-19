@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-origin-divergences-time-dependent
 excerpt: "We consider time-dependent orbifolds in String Theory and we show that divergences are not associated with a gravitational backreaction since they appear in the open string sector, too."
 date: 2020-05-26
-venue: "Eur. Phys. J. C 80 (2020), p. 476"
+venue: "Eur. Phys. J. C, 80, 476"
 paperurl: "https://doi.org/10.1140/epjc/s10052-020-8010-y"
 citation: "A. Arduino, R. Finotello, I. Pesando. 'On the Origin of Divergences in Time-dependent Orbifolds'. Eur. Phys. J. C 80 (2020), p. 476."
 ---
