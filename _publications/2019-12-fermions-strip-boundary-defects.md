@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-12-fermions-strip-boundary-defects
 excerpt: "We consider a two-dimensional fermion on the strip in the presence of an arbitrary number of zero-dimensional boundary changing defects."
 date: 2021-08-01
-venue: "Nucl.Phys. B, 969, 115464"
+venue: "Nucl. Phys. B, 969, 115464"
 paperurl: "https://doi.org/10.1016/j.nuclphysb.2021.115464"
 citation: "R. Finotello, I. Pesando. '2D Fermion on the Strip with Boundary Defects as a CFT with Excited Spin Fields'. Nucl.Phys.B 969 (2021) 115464"
 ---
