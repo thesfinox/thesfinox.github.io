@@ -10,4 +10,4 @@ citation: "R. Finotello, I. Pesando. 'The Classical Solution for the Bosonic Str
 ---
 We consider the classical instantonic contribution to the open string configuration associated with three D-branes with relative rotation matrices in $\mathrm{SO}(4)$ which corresponds to the computation of the classical part of the correlator of three non Abelian twist fields. We write the classical solution as a sum of a product of two hypergeometric functions. Differently from all the previous cases with three D-branes, the solution is not holomorphic and suggests that the classical bosonic string knows when the configuration may be supersymmetric. We show how this configuration reduces to the standard Abelian twist field computation. From the phenomenological point of view, the Yukawa couplings between chiral matter at the intersection in this configuration are more suppressed with respect to the factorized case in the literature.
 
-[Full-text](https://arxiv.org/abs/1812.04643)
+[Full-text](https://doi.org/10.1016/j.nuclphysb.2019.02.010) | [preprint](https://arxiv.org/abs/1812.04643)
