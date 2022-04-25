@@ -1,7 +1,7 @@
 ---
 title: "HyperPCA: a Powerful Tool to Extract Elemental Maps from Noisy Data Obtained in LIBS Mapping of Materials"
 collection: publications
-permalink: /publication/2022-06-hyperpca
+permalink: /publication/2022-06-hyperpca-libs
 excerpt: "We introduce HyperPCA, a new analysis tool for hyperspectral images to consistently reconstruct the spectroscopic signal, with a particular emphasis on LIBS data."
 date: 2022-06-01
 venue: "Spectrochim. Acta B: At. Spectrosc., 192, 106418"
