@@ -1,0 +1,11 @@
+---
+title: "HyperPCA. Une méthode d’analyse innovante pour l’imagerie hyperspectrale"
+collection: posters
+type: "Poster"
+permalink: /talks/2022-05-16-hyperpca-innovante
+venue: "Journées Scientifiques de l’ISAS"
+date: 2022-05-16
+location: "Saclay, France"
+---
+
+We show an application of a new PCA methodology to the use case of [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) mapping experiments.
