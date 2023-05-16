@@ -26,10 +26,10 @@ I focused my research on **string theory and conformal field theory** and applic
 
 You can find details on my thesis by following the link in the *InspireHEP* website to the full-text on the *I.N.F.N.* (*National Institute of Nuclear Physics*, section of Torino) website:
 
-|                 | Details                                                                                                                                                                                                                                                                                                   |
-|:--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Title:**      | D-branes and Deep Learning: Theoretical and Computational Aspects In String Theory                                                                                                                                                                                                                        |
-| **Supervisor:** | [Prof. Igor Pesando](https://www.df.unito.it/persone/igor.pesando)                                                                                                                                                                                                                 |
+|                 | Details |
+|:---------------:|:------- |
+| **Title:**      | D-branes and Deep Learning: Theoretical and Computational Aspects In String Theory |
+| **Supervisor:** | [Prof. Igor Pesando](https://www.df.unito.it/persone/igor.pesando) |
 | **Commitee:**   | Prof. Leonardo Castellani (head, [UniPO](https://upobook.uniupo.it/leonardo.castellani)), Prof. Marialuisa Frau ([UniTO](https://www.df.unito.it/persone/marialuisa.frau)), Dr. Raffaele Marotta ([I.N.F.N, Naples](https://web.infn.it/strings-napoli/index.php/en/people/raffaele-marotta)) |
-| **Links:**      | [*InspireHEP*](https://inspirehep.net/literature/1845067), [I.N.F.N.](http://www.infn.it/thesis/thesis_dettaglio.php?tid=528942)                                                                                                                                                                             |
-| **Full-text:**  | [PDF](/assets/thesis.pdf)                                                                         |                                                                                                                                                                         |
+| **Links:**      | [*InspireHEP*](https://inspirehep.net/literature/1845067), [I.N.F.N.](http://www.infn.it/thesis/thesis_dettaglio.php?tid=528942) |
+| **Full-text:**  | [PDF](/assets/thesis.pdf) |
