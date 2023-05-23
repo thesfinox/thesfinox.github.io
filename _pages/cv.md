@@ -21,7 +21,7 @@ For the PDF version click [here](/assets/cv.pdf).
 
 ## Work Experience
 
-I permanent **Research Scientist** at the *Direction de la recherche tecnologique* (DRT/LIST/DIASI/SIALV/LVML) for AI applications to physical data.
+I am a permanent **Research Scientist** at the *Direction de la recherche tecnologique* (DRT/LIST/DIASI/SIALV/LVML) for AI applications to physical data.
 
 - 12/2022 - present: **Research Scientist**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
 - 09/2022 - 12/2022: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
