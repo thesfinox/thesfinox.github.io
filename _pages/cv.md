@@ -51,6 +51,7 @@ Theory* under the advisory of Prof. Igor Pesando.
 
 ## Fellowships, Grants and Distinctions
 
+- 2023: EU funding for the COST Action CA22130 - Comprehensive Multiboson Experiment-Theory Action (COMETA) [**member of the Management Committee**]
 - 2020: grant as teaching assistant at the *Universit&agrave; degli Studi di Torino* (6 months, from 01/2020)
 - 2019: student elected in the *Department Council* as Ph.D. representative
 - 2018: student elected in the *Department Council* as Ph.D. representative
