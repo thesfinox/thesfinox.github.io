@@ -23,7 +23,7 @@ For the PDF version click [here](/assets/cv.pdf).
 
 I am a permanent **Research Scientist** at the *Direction de la recherche tecnologique* (DRT/LIST/DIASI/SIALV/LVML) for AI applications to physical data.
 
-- 12/2022 - present: **Research Scientist**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
+- 12/2022 - present: **Research Engineer**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
 - 09/2022 - 12/2022: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
 - 02/2021 - 08/2022: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LANIE and LVML), Saclay, France.
 - 10/2017 - 12/2020: **Ph.D. Graduate Researcher**, *Universit&agrave; degli Studi di Torino*, Torino, Italy.
@@ -96,11 +96,13 @@ Theory* under the advisory of Prof. Igor Pesando.
 
 # IT Skills
 
-- *programming languages*: Python, R, C++, PHP, Javascript, SQL, bash, ROOT, Matlab/Octave, Maxima, Wolfram Language, Java
+- *programming languages*: Python, R, C++, ROOT, PHP, Javascript, SQL, bash, Matlab/Octave, Maxima, Wolfram Language, Java
 - *markup languages*: HTML, Markdown, RMarkdown
 - *operating systems*: Ubuntu (main distribution), Arch Linux, Debian, CentOS, Microsoft Windows
 - *shell*s: bash, zsh, PowerShell
-- *modules and libraries*: Scipy ecosystem, Scikit-learn, Scikit-optimize, Tensorflow (Keras), PyTorch, LightGBM, Xgboost, Tidyr, Caret, Leaflet, Plotly, GMP, MPFR
+- *deep learning ecosystem*: Detectron2, PyTorch, PyTorch Geometric, PyTorch Lightning, JAX, Tensorflow, Keras, Optuna, Scikit-optimize
+- *data analysis ecosystem*: Scipy/Numpy/Sympy ecosystem, Pandas, Statsmodels, Scikit-learn, LightGBM, XGBoost, Tidyr, Caret, Leaflet, Plotly, GMP, MPFR
+- *visualization*: Matplotlib, Seaborn, Plotly, Open3D, Tensorboard, Tidyr, Caret, Leaflet
 - *frameworks*: Jupyter Lab and Notebook, RStudio, wxMaxima, Mathematica for scientific programming; VIM (with plugins), Eclipse for software developments; Git for version control; GitBook for documentation
 - *system administration*: personal instance of Nextcloud on a Raspberry Pi server (Raspbian OS), administration and web design of the journal club webpage (https://torinophd.ddns.net/) on a Raspberry Pi Apache+PHP+MariaDB installation (GitHub)
 - *other certifications*: ECDL Core Full (European Computer Driving Licence, 04/2012)
