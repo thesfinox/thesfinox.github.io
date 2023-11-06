@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a permanent **Research Scientist** at the [*Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives*](https://www.cea.fr) (CEA), Paris-Saclay for the **Direction of Technological Research** (*Direction de la recherche technologique* at the *Laboratoire de vision pour la mod&eacute;lisation e la localisation*, DRT/LIST/DIASI/SIALV/LVML).
-
-I am part of the team of the *Chaire Artificial Intelligence & Complexity*. We study the evolution of **complex systems** both in AI and Physics, in order to understand how to extract and reconstruct a signal and how to increase the performance of current methodologies. We work in the sustainable framework of a **Green AI**, dedicated to streamlining deep learning architectures and to simplify the data treatments.
-
-I got my Ph.D. degree in *Physics and Astrophysics* at the *Università degli Studi di Torino* ([UniTO](https://www.unito.it)) in Italy in December 2020. I dealt with topics on **string theory** and the **interface between geometry and deep learning** techniques.
+I am a permanent **Research Engineer** at the [*Commissariat &agrave; l'&eacute;nergie atomique et aux &eacute;nergies alternatives*](https://www.cea.fr) (CEA), Paris-Saclay for the **Direction of Technological Research** (*Direction de la recherche technologique* at the *Laboratoire de vision pour la mod&eacute;lisation e la localisation*, DRT/LIST/DIASI/SIALV/LVML).
 
 ## My Research
 
-My research interests cover physical and computational problems, the common thread being the relation between mathematics and artificial intelligence, from data acquisition to the analysis. At present, I focus on two principal research areas, related to [computer vision](https://en.wikipedia.org/wiki/Computer_vision). The first is the segmentation of hyperspectral images (often issued from spectroscopy techniques, such as [laser-induced breakdown spectroscopy](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy)) using supervised and unsupervised methods to extract relevant information from complex and diverse data. The other is geometric deep learning and [representation learning](https://paperswithcode.com/task/representation-learning) for computer vision: I study the properties of hyperspectral images using [Graph Neural Networks](https://en.wikipedia.org/wiki/Graph_neural_network) and geometry. I am also interested in applications of machine and deep learning to the theory of mathematics and physics, such as algebraic geometry and string theory, for their fascinating structures and their ability to provide geometrical insights on the behaviour of neural network architectures.
+My research interests cover physical and computational problems, the common thread being the relation between applied mathematics and artificial intelligence, from data acquisition to the analysis.
+At present, I focus on two principal research areas, related to [computer vision](https://en.wikipedia.org/wiki/Computer_vision) and data science.
+The first is the analysis of hyperspectral images (often issued from spectroscopy techniques, such as [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) or [NIR](http://www.scholarpedia.org/article/Near_infrared_imaging) imagery) using supervised and unsupervised methods for object detection and (panoptic) segmentation of scenes.
+In particular, I am interested in geometric deep learning and [representation learning](https://paperswithcode.com/task/representation-learning) for computer vision: I study the properties of hyperspectral images using [graph neural networks](https://en.wikipedia.org/wiki/Graph_neural_network) and geometry, in order to recover the full extent of the information present in the images.
+The other is the application of ML and AI to experimental physics.
+Specifically, I took an interest in [explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) methods and the definition of uncertainties in deep learning.
+I actively work in the development of deep learning techniques capable of characterize each measurement, in order to exploit statistical models in order to reject outliers and to provide a measure of the uncertainty of the prediction.
+I am also interested in applications of machine and deep learning to the theory of mathematics and physics, such as algebraic geometry and string theory, for their fascinating structures and their ability to provide geometrical insights on the behaviour of neural network architectures.
 
 ## My Thesis
 
